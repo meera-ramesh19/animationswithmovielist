@@ -33,7 +33,7 @@ header {
     margin-right: 10px;
 }
 
-.logo img {
+.header-container .logo i {
     height: 100%;
 }
 
